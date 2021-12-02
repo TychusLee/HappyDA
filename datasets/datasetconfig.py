@@ -1,5 +1,5 @@
 
-__all__ = ['Office31', 'OfficeHome', 'DomainNet']
+__all__ = ['Office31', 'OfficeHome', 'DomainNet', 'VisDA']
 Office31 = {
     'classes': [
         "back_pack",
